@@ -1,0 +1,12 @@
+{
+  "id": "did:web:yellowpay.website",
+  "service": [
+    {
+      "id": "DAPRegistry",
+      "type": "DAPRegistry",
+      "serviceEndpoint": [
+        "https://yellowpay.website"
+      ]
+    }
+  ]
+}

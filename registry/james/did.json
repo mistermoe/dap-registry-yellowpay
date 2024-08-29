@@ -1,0 +1,24 @@
+{
+  "id": "did:web:yellowpay.website:james",
+  "verificationMethod": [
+    {
+      "id": "did:web:yellowpay.website:james#0",
+      "type": "JsonWebKey",
+      "controller": "did:web:yellowpay.website:james",
+      "publicKeyJwk": {
+        "kty": "OKP",
+        "crv": "Ed25519",
+        "x": "7TJ2C12kIChHwAQvi3xZ7jOP7QnKj92IwVAQ-_uuY-M"
+      }
+    }
+  ],
+  "service": [
+    {
+      "id": "#0",
+      "type": "MoneyAddress",
+      "serviceEndpoint": [
+        "urn:usdc:eth:0xADFe2f9ec6CaB1d134f06EcA41f7BA2AeBf40377"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "did": "did:web:yellowpay.website:james",
+  "proof": {
+    "id": "reg_01j6e03dp7fgh9ntfx8c6pg3ff",
+    "handle": "james",
+    "did": "did:web:yellowpay.website:james",
+    "domain": "yellowpay.website",
+    "signature": "eyJhbGciOiJFZERTQSIsImtpZCI6ImRpZDp3ZWI6eWVsbG93cGF5LndlYnNpdGU6amFtZXMjMCJ9..tn5zXmI38lXYQ1fxhuxAfszuF5EFKnhI80fttt7w8qQ2xOkTH-KszjZU2QJnIjAKg8-YF8-MlQ1OelTQwx3BDg"
+  }
+}
